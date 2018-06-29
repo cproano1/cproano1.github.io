@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Chris&#39; Blog</title>
     <link>http://cproano1.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Chris&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jun 2018 21:01:30 +0100</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Coding Poker</title>
       <link>http://cproano1.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 29 Jun 2018 21:01:30 +0100</pubDate>
       
       <guid>http://cproano1.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>Who needs cards when you can conveniently play casino games on your computer? Well for that reason, I attempted to code a simplified version of Poker on Python. Initially, I imported random and created the lists suits (containing the four suits), faces, hands, and highest_card. Faces has the integer values from 1 to 14, representing the card values, so that the face cards are highest (Ace is 14). Hands and Highest_card are empty and are filled later.</description>
     </item>
     
   </channel>
